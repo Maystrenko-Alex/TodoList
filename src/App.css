@@ -5,3 +5,12 @@
 .App h3 {
   padding-left: 15px;
 }
+.isDone {
+  opacity: 0.4;
+}
+.activeBtn {
+  background-color: rgb(177, 243, 221);
+}
+.error {
+  border: 2px solid red;
+}
