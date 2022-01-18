@@ -1,5 +1,10 @@
 .App {
   padding: 30px;
+  display: flex;
+}
+
+.todo_wrapper { 
+  margin-left: 30px;
 }
 
 .App h3 {
