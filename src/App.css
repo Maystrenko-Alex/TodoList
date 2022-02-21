@@ -1,17 +1,17 @@
 .App {
   padding: 30px;
-  display: flex;
+  /* display: flex; */
 }
 
 .todo_wrapper { 
-  margin-left: 30px;
+  display: inline-flex;
 }
 
 .App h3 {
   padding-left: 15px;
 }
 .isDone {
-  opacity: 0.4;
+  opacity: 0.6;
 }
 .activeBtn {
   background-color: rgb(177, 243, 221);
